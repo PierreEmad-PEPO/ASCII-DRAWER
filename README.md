@@ -72,5 +72,5 @@ https://user-images.githubusercontent.com/95152181/144071235-0516f846-daa2-45b1-
 
 Uploading 12 Flip.mp4…
 
-# If you have any idea of additional option, let me know it <3
+* If you have any idea of additional option, let me know it <3
                             # THANK YOU
