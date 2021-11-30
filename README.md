@@ -3,7 +3,9 @@
 
 It is a project for ASCII ART designers.
 
-The project has all options to make anything you want
+The project has all options to make anything you want.
+
+It has a command menu describing all controls and options.
 
 ## Options
 
@@ -31,3 +33,44 @@ https://user-images.githubusercontent.com/95152181/143976489-2632def3-6504-465e-
 
 https://user-images.githubusercontent.com/95152181/143976553-79447f2c-7601-46f7-a559-29c5e3548a6f.mp4
 
+* Select any part you want.
+* You Can move it.
+
+https://user-images.githubusercontent.com/95152181/144068210-a4bda899-8aac-4009-93cf-7806b16ea27b.mp4
+
+* Rotation
+* Rotates the Selected points.
+* NOTE: The console system has a problem that the Vertical unit is BIGGER than the Horizontal unit, So you notice the object become wider.
+
+https://user-images.githubusercontent.com/95152181/144069792-49f8050a-1828-4fb9-96bc-444267f38bfe.mp4
+
+* Choose the Drawing Character you want.
+* All ASCII characters Menu appear and enter the number of the character you want.
+
+https://user-images.githubusercontent.com/95152181/144070224-213e6652-641e-4405-8a49-9a0ce81d0ca6.mp4
+
+* Import & Export
+* You can import a .txt file and edit it.
+* You can Save your draw in a .txt file to share it.
+
+https://user-images.githubusercontent.com/95152181/144070561-ed103a9e-7354-4a96-a10a-b4e1292d0f96.mp4
+
+* Undo
+* All Options has the undo process.
+* At any moment you make something wrong or want to go back, Just Pess 'u'
+
+https://user-images.githubusercontent.com/95152181/144071101-a70c69c2-1da3-400d-9b59-f95c0c1e1798.mp4
+
+* Copy
+* Copy any selected part.
+
+https://user-images.githubusercontent.com/95152181/144071235-0516f846-daa2-45b1-a796-92a1e9a0cba1.mp4
+
+* Flip
+* Flip ant selected part
+
+
+Uploading 12 Flip.mp4…
+
+# If you have any idea of additional option, let me know it <3
+                            # THANK YOU
