@@ -9,6 +9,6 @@ The project has all options to make anything you want
 
 * Set the length, the width and the initial character of the drawing.
 
+![00 set rows and columns](https://user-images.githubusercontent.com/95152181/143973245-08db58b2-aeac-4199-8ac8-18b20164a566.gif)
 
-https://user-images.githubusercontent.com/95152181/143916820-56b4762c-f764-435e-a0b5-91b2919d294b.mp4
-
+* Move the cursor, draw and delete
