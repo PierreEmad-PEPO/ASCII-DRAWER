@@ -72,5 +72,7 @@ https://user-images.githubusercontent.com/95152181/144071235-0516f846-daa2-45b1-
 https://user-images.githubusercontent.com/95152181/144072241-325806c8-ebc3-4763-8eda-bea1f8bc64e3.mp4
 
 
-* If you have any idea of additional option, let me know it <3
-                            ### THANK YOU
+* If you have any idea of additional option, let me know it <3.
+
+
+### THANK YOU
