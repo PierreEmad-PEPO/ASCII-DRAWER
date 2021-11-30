@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/95152181/144068210-a4bda899-8aac-4009-
 
 * Rotation
 * Rotates the Selected points.
-* NOTE: The console system has a problem that the Vertical unit is BIGGER than the Horizontal unit, So you notice the object become wider.
+* NOTE: The console system has a problem that the Vertical unit is BIGGER than the Horizontal unit, So you notice the object become taller.
 
 https://user-images.githubusercontent.com/95152181/144069792-49f8050a-1828-4fb9-96bc-444267f38bfe.mp4
 
